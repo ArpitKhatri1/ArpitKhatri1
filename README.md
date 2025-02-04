@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arpit Kumar Khatri</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkhatri1&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkhatri1" /> </p>
 
-- 🔭 I’m currently working on **Codeforces-Tracker**
+- 🔭 I’m currently working on **Codeforces Tracker**
 
 - 🌱 I’m currently learning **Golang and Devops**
 
